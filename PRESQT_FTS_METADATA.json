@@ -1,0 +1,157 @@
+{
+    "allKeywords": [],
+    "actions": [
+        {
+            "id": "1ee72c1f-e51a-42cb-871a-e2622fdfe257",
+            "details": "PresQT Transfer from OSF to GitHub",
+            "actionDateTime": "2021-01-03 19:19:29.629588+00:00",
+            "actionType": "resource_transfer_in",
+            "sourceTargetName": "osf",
+            "sourceUsername": "Djordje Trajkovic",
+            "destinationTargetName": "github",
+            "destinationUsername": "djoletrajkovic9",
+            "keywords": {
+                "sourceKeywordsAdded": [],
+                "sourceKeywordsEnhanced": [],
+                "ontologies": [],
+                "enhancer": "scigraph"
+            },
+            "files": {
+                "created": [
+                    {
+                        "destinationPath": "/COVID19_Psychosis/osfstorage/Supplementary_data_v2.pdf",
+                        "destinationHashes": {},
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "558df67ddb4741ba6e16bc44ef6083d7",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "Supplementary data_v2.pdf",
+                        "sourceHashes": {
+                            "md5": "558df67ddb4741ba6e16bc44ef6083d7",
+                            "sha256": "2bcf593afd56271e96b144999e7e253e48b417ea560f63724b84f677a2998a01"
+                        },
+                        "sourcePath": "/COVID19 Psychosis/osfstorage/Supplementary data_v2.pdf",
+                        "extra": {
+                            "id": "5fe1f9ee3373730075f8a464",
+                            "parent_project_id": "gxy79",
+                            "endpoint": "https://api.osf.io/v2/files/5fe1f9ee3373730075f8a464/",
+                            "download_url": "https://files.de-1.osf.io/v1/resources/gxy79/providers/osfstorage/5fe1f9ee3373730075f8a464",
+                            "upload_url": "https://files.de-1.osf.io/v1/resources/gxy79/providers/osfstorage/5fe1f9ee3373730075f8a464",
+                            "delete_url": "https://files.de-1.osf.io/v1/resources/gxy79/providers/osfstorage/5fe1f9ee3373730075f8a464",
+                            "last_touched": null,
+                            "date_modified": "2020-12-22T13:51:42.214451Z",
+                            "current_version": 1,
+                            "date_created": "2020-12-22T13:51:42.214451Z",
+                            "provider": "osfstorage",
+                            "path": "/5fe1f9ee3373730075f8a464",
+                            "current_user_can_comment": true,
+                            "guid": null,
+                            "checkout": null,
+                            "tags": [],
+                            "size": 736669
+                        }
+                    },
+                    {
+                        "destinationPath": "/COVID19_Psychosis/osfstorage/Manuscript_preprint.pdf",
+                        "destinationHashes": {},
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "b02271fb8752b8f322354d07018f5be3",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "Manuscript_preprint.pdf",
+                        "sourceHashes": {
+                            "md5": "b02271fb8752b8f322354d07018f5be3",
+                            "sha256": "a17161660c208df99335a83001a3ab984031b8054e5139607d36012f812ab3b5"
+                        },
+                        "sourcePath": "/COVID19 Psychosis/osfstorage/Manuscript_preprint.pdf",
+                        "extra": {
+                            "id": "5fe1f9d4c05e2d00741c74f7",
+                            "parent_project_id": "gxy79",
+                            "endpoint": "https://api.osf.io/v2/files/5fe1f9d4c05e2d00741c74f7/",
+                            "download_url": "https://files.de-1.osf.io/v1/resources/gxy79/providers/osfstorage/5fe1f9d4c05e2d00741c74f7",
+                            "upload_url": "https://files.de-1.osf.io/v1/resources/gxy79/providers/osfstorage/5fe1f9d4c05e2d00741c74f7",
+                            "delete_url": "https://files.de-1.osf.io/v1/resources/gxy79/providers/osfstorage/5fe1f9d4c05e2d00741c74f7",
+                            "last_touched": null,
+                            "date_modified": "2020-12-22T13:51:17.040610Z",
+                            "current_version": 1,
+                            "date_created": "2020-12-22T13:51:17.040610Z",
+                            "provider": "osfstorage",
+                            "path": "/5fe1f9d4c05e2d00741c74f7",
+                            "current_user_can_comment": true,
+                            "guid": null,
+                            "checkout": null,
+                            "tags": [],
+                            "size": 1474448
+                        }
+                    },
+                    {
+                        "destinationPath": "/COVID19_Psychosis/osfstorage/Study_protocol.pdf",
+                        "destinationHashes": {},
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "98d4f08fe46d53d6ec5791c69a8e01a2",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "Study protocol.pdf",
+                        "sourceHashes": {
+                            "md5": "98d4f08fe46d53d6ec5791c69a8e01a2",
+                            "sha256": "1424cb608adbde14f47518195550499d7427805f90e72080dc8eaeab4b02f674"
+                        },
+                        "sourcePath": "/COVID19 Psychosis/osfstorage/Study protocol.pdf",
+                        "extra": {
+                            "id": "5ec7f07cc7568600bc2d0ea2",
+                            "parent_project_id": "gxy79",
+                            "endpoint": "https://api.osf.io/v2/files/5ec7f07cc7568600bc2d0ea2/",
+                            "download_url": "https://files.de-1.osf.io/v1/resources/gxy79/providers/osfstorage/5ec7f07cc7568600bc2d0ea2",
+                            "upload_url": "https://files.de-1.osf.io/v1/resources/gxy79/providers/osfstorage/5ec7f07cc7568600bc2d0ea2",
+                            "delete_url": "https://files.de-1.osf.io/v1/resources/gxy79/providers/osfstorage/5ec7f07cc7568600bc2d0ea2",
+                            "last_touched": null,
+                            "date_modified": "2020-05-22T15:32:12.196364Z",
+                            "current_version": 1,
+                            "date_created": "2020-05-22T15:32:12.196364Z",
+                            "provider": "osfstorage",
+                            "path": "/5ec7f07cc7568600bc2d0ea2",
+                            "current_user_can_comment": true,
+                            "guid": "uq48m",
+                            "checkout": null,
+                            "tags": [],
+                            "size": 689011
+                        }
+                    }
+                ],
+                "updated": [],
+                "ignored": []
+            }
+        }
+    ],
+    "extra_metadata": {
+        "title": "COVID19 Psychosis",
+        "creators": [
+            {
+                "first_name": "Catherine",
+                "last_name": "Bortolon",
+                "ORCID": null
+            },
+            {
+                "first_name": "st\u00e9phane",
+                "last_name": "Raffard",
+                "ORCID": null
+            }
+        ],
+        "publication_date": "2020-05-11T13:29:02.495154",
+        "description": "",
+        "keywords": [],
+        "license": null,
+        "related_identifiers": [],
+        "references": null,
+        "notes": null
+    }
+}
